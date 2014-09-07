@@ -1,6 +1,6 @@
 {
 	"config_version": "4",
-	"name": "Puzzle",
+	"name": "CrossWord",
 	"author": "zanganeh@gmail.com",
 	"version": "0.1",
 	"platform_version": "v2.1.9",
@@ -14,17 +14,5 @@
 		}
 	},
 	"modules": {
-		"topbar": {
-			"version": "2.4"
-		},
-		"prefs": {
-			"version": "2.0"
-		},
-		"request": {
-			"version": "2.5",
-			"config": {
-				"permissions": []
-			}
-		}
 	}
 }
