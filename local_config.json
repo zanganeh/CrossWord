@@ -1,0 +1,16 @@
+{
+	"general": {},
+	"ios": {
+		"profiles": {
+			"DEFAULT": {}
+		},
+		"simulatorsdk": "8.0",
+		"simulatorfamily": "iphone",
+		"simulatorvariant": "default"
+	},
+	"android": {
+		"profiles": {
+			"DEFAULT": {}
+		}
+	}
+}
